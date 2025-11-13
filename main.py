@@ -1,4 +1,4 @@
-from calculos import areatri,areacuadra
+from calculos import areatri,areacuadra,area_circulo
 from funtions import sumar
 print("Hola Mundo")
 
@@ -8,7 +8,8 @@ while menu_interactivo:
     print("1. Sumar")
     print("2. Area triangulo")
     print("3. Area cuadrado")
-    print("4. Salir")
+    print("4. Area circulo")
+    print("5. Salir")
     opcion=input("Seleccione una opcion: ")
 
     if (opcion == "1"):
@@ -18,6 +19,8 @@ while menu_interactivo:
     elif (opcion == "3"):
         areacuadra ()
     elif (opcion == "4"):
+        area_circulo()
+    elif (opcion == "5"):
         print("Saliendo del programa")
         break
     else: 
