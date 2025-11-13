@@ -1,8 +1,4 @@
-#funcion para hallar el area de un triangulo
-def area_triangulo(base, altura):
-    return base * altura
-#funcion para hallar el area de un cuadrado
-def area_cuadrado(lado, lado):
-    return lado * lado
-
-
+def areatri(base,altura): #Se encarga de devolver el area de un triangulo RECTANGULO, donde base es la BASE del triangulo y ALTURA es la altura del triangulo
+    return base*altura
+def areacuadra(lado): #Se encarga de devolver el area de un cuadrado donde lado es el LADO de un cuadrado
+    return lado*lado

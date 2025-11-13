@@ -1,4 +1,4 @@
-Encontré dos archivos .py, con los nombres "Functions" y "Main" En la parte de Functions encontré una función de suma (def suma), en Main se llamaba la función y se ejecutaba. 
-Considero que el código está bastante bien, ordenado y con sus respectivos comentarios
-
-Encuentro dos comentarios bien especificados y con buena redaccion, sin embargo en el primer cometario no hace uso de "conventional commits" 
+- Faltó comentar la función que realiza suma() en archivo functions.py
+- No es necesario darle valores a numero1 y numero2 ya que estos atributos se asignan al llamar la función en main.py
+- En el primer commit creo que falta especificar cual archivo fue el que creaste, en este caso main.py
+- En el segundo commit faltó especificar cual fue el archivo .py que se creó, y dentro de este falto especificar cuales son los nombres de las funciones creadas.
