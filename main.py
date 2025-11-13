@@ -1,6 +1,6 @@
 from calculos import areatri,areacuadra,area_circulo
 from funtions import sumar
-print("Hola Mundo")
+print("PRACTICA_GIT - 13/11/2025")
 
 menu_interactivo = True
 while menu_interactivo:
